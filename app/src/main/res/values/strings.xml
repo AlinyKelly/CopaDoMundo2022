@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Copa do Mundo</string>
+    <string name="tab_text_1">Grupos</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
